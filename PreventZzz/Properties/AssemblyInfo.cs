@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("PreventZzz")]
 [assembly: AssemblyDescription("Sleep and Monitor power off prevention.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("IT SUPPORT SAKURA Inc.")]
+[assembly: AssemblyCompany("IT SUPPORT SAKURA")]
 [assembly: AssemblyProduct("PreventZzz")]
 [assembly: AssemblyCopyright("Copyright ©  2021- IT SUPPORT SAKURA Inc.")]
 [assembly: AssemblyTrademark("")]
